@@ -1,0 +1,11 @@
+c:\users\alex\documents\visual studio 2013\Projects\CIPDemoPOS\CIPDemoPOS\bin\Debug\CIPDemoPOS.exe.config
+c:\users\alex\documents\visual studio 2013\Projects\CIPDemoPOS\CIPDemoPOS\bin\Debug\ExternalRefs\setup.txt
+c:\users\alex\documents\visual studio 2013\Projects\CIPDemoPOS\CIPDemoPOS\bin\Debug\CIPDemoPOS.exe
+c:\users\alex\documents\visual studio 2013\Projects\CIPDemoPOS\CIPDemoPOS\bin\Debug\CIPDemoPOS.pdb
+c:\users\alex\documents\visual studio 2013\Projects\CIPDemoPOS\CIPDemoPOS\bin\Debug\cipeinet.dll
+c:\users\alex\documents\visual studio 2013\Projects\CIPDemoPOS\CIPDemoPOS\obj\Debug\CIPDemoPOS.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2013\Projects\CIPDemoPOS\CIPDemoPOS\obj\Debug\CIPDemoPOS.form_DemoPOS.resources
+c:\users\alex\documents\visual studio 2013\Projects\CIPDemoPOS\CIPDemoPOS\obj\Debug\CIPDemoPOS.Properties.Resources.resources
+c:\users\alex\documents\visual studio 2013\Projects\CIPDemoPOS\CIPDemoPOS\obj\Debug\CIPDemoPOS.csproj.GenerateResource.Cache
+c:\users\alex\documents\visual studio 2013\Projects\CIPDemoPOS\CIPDemoPOS\obj\Debug\CIPDemoPOS.exe
+c:\users\alex\documents\visual studio 2013\Projects\CIPDemoPOS\CIPDemoPOS\obj\Debug\CIPDemoPOS.pdb
